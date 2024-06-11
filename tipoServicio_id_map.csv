@@ -1,0 +1,6 @@
+variable,id
+STR,0
+SPI,1
+SDPA,2
+STRIP,3
+AIP,4
